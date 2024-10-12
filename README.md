@@ -9,7 +9,7 @@ The solver places queens on a chessboard such that no two queens can attack each
 - Implements backtracking to find a valid solution.
 
 ## How to Use
-1. Run the script, and you will be prompted to snip an image of the board.
+1. Run the script, input size of board and you will be prompted to snip an image of the board.
 2. The solver will find a solution and visualize it.
 
 ## Requirements
